@@ -1,0 +1,22 @@
+* Grünes Wachstum und Entkopplung
+Traditionell ist Wirtschaftswachstum eng mit der zunehmenden Ausbeutung der Natur verbunden. Damit einher geht ein Wachstum der Umweltschäden sowohl lokal (z.B. Verschmutzung von Gewässern und des Grundwassers, Verdrängung von Tierarten, Flurschäden etc.) als auch global (z.B. Klimaerwärmung durch Treibhausgase). 
+
+Die Idee des grünen Wachstums besteht darin, dass durch technologische Fortschritte das Wirtschaftswachstum von der Resourcennutzung entkoppelt wird. Im Kontext der Klimakrise bezieht man sich dabei vor allem auf den Ausstoß von Treibhausgasen (vor allem CO2 und Methan).
+
+Die Gegner des grünen Wachstums führen ins Feld, dass eine unendlich wachsende Wirtschaft in einer endlichen Welt nicht möglich ist und dass historische Daten zeigen, dass diese Entkopplung bisher nicht stattfindet.
+
+In [1] fassen die Autoren die Diskussion wie folgt zusammen>
+
+  - Das Ausgangsargument von Wachstumskritik ist, dass eine unendlich wachsende Wirtschaft in einer endlichen Welt nicht möglich ist.
+  - Die Gegner dieser Kritik führen im Allgemeinen an, dass wirtschaftliches Wachstum nicht unbedingt an physikalichen Resourcenverbrauch gekoppelt ist. Die Idee ist, dass durch unsere Wirtschaft durch technologischen Fortschritt immer effizienter wird und dadurch der Resourcenverbrauch pro Dollar Wirtschaftswachstum immer weiter sinkt. Dadurch entkoppelt sich das Wirtschaftswachstum vom Resourcenverbrauch.
+  - Die Autoren unterscheiden zwischen relativer und absoluter Entkopplung: relative Entkopplung bedeutet, dass wirtschaftliche Aktivität immer effizienter wird: der Resourcenverbauch pro Dollar Wirtschaftsleistung sinkt. Absolute Entkopplung bedeutet, dass der Resourcenverbrauch insgesamt sinkt.
+  - Relative Entkopplung findet in den Industrienationen statt und ist nachweisbar, z.B. sind die CO2-Emissionen in der EU von 1990 bis 2017 um 22% gefallen, während die Wirtschaftsleistung um 58% zunahm. Allerdings muss man dabei bedenken, dass viele Emissionen nur aus der EU ausgelagert wurden. Der CO2-Fußabdruck in der EU ist deutlich weniger gesunken als die CO2-Emissionen in der EU und ist um 20% höher als diese.
+  - Absolute Entkopplung hat auf globaler Ebene nicht stattgefunden, im Gegenteil: die CO2-Emissionen sind heute 60% höher als 1990.
+  - Um Paris einzuhalten, ist selbst absolute Entkopplung der CO2-Emissionen nicht genug. Bis Mitte des Jahrhunderts müssen die Netto-Emissionen 0 erreicht haben, d.h. es muss eine starke oder "sufficient" absolute Entkopplung stattfinden. Die CO2-Emissionen müssen in den nächsten 3 Jahrzehnten ab sofort um 14% pro Jahr sinken, während die größte Reduktion historisch lediglich 3% betrug (während der Ölkrise in den Siebzigern).
+  - Die Frage ist also nicht, ob relative Entkopplung technologisch möglich ist (sie ist es) oder ob die Länder der Welt diese Technik in der Vergangenheit genügend ausgenutzt haben (haben sie nicht), sondern ob es in Zukunft gelingen kann, in genügend kurzer Zeit für eine genügend starke absolute Entkopplung zu sorgen. Und ob diese Entkopplung bei Beibehaltung des Wachstumsmantras gelingen kann.
+  - Ökonomisch gesehen ist monetärer Wert entkoppelt von Physik. Auf der anderen Seite ist physikalische Aktivität nicht ohne Energieverbrauch möglich. Ein gerne genommenes Argument ist, dass die Sonne uns theoretisch mit genug Energie versorgt. Allerdings ist diese Energie im Gegensatz zu z.B. fossilen Energieträgern sehr diffus und nicht so einfach zu benutzen. Das heißt nicht, dass Wachstum nicht mehr möglich sein wird. Es ist jedoch klar, dass eine größere Wirtschaft es schwieriger macht, den Resourvenverbauch im Zaum zu halten. Die einzige Alternative wäre, nicht-materiellen Werten ökonomischen Wert beizumessen, eine höchst umstrittene Idee.
+ 
+
+Referenzen:
+
+[1] Jackson, Tim, and Peter A. Victor. "Unraveling the claims for (and against) green growth." Science 366.6468 (2019): 950-951.
