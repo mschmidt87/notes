@@ -1,0 +1,49 @@
+* Daly: Beyond Growth
+  Buch von 1995, in dem Herman Daly seine Vision einer Postwachtstums-Ökonomie beschreibt und argumentiert, warum die neoklassische Theorie daran scheitert, eine Wirtschaft für das 21. Jahrhundert zu skizzieren. Im folgenden kurze Notizen der zentralen Punkte und Begriffe:
+** Wachstum und Entwicklung
+   Zwei Aspekte eines Anstiegs der BIP: Wachstum (growth) und Entwicklung (development). Wachstum bezeichnet die quantitative Zunahme von Wirtschaftsleistung, Entwicklung die qualitative Zunahme. Wir müssen das Wachstum beenden und die Entwicklung in den Vordergrund stellen.
+** Wirtschaft und Umwelt
+
+   #+CAPTION: Grundlegendes Prinzip: die Wirtschaft befindet sich in einem endlichen Ökosystem.
+   #+NAME:   fig:SED-HR4049
+   [[./sketches/steadystate1.png]]
+
+   Neoklassische Wirtschaftstheorie betrachtet die Wirtschaft als ein geschlossenes System in einem Vakuum. Es konsumiert zwar natürliche Resourcen, diese sind jedoch quasi unendlich vorhanden, also müssen wir uns um sie keine Gedanken machen. Das hat zwar vor 200 bis 250 Jahren näherungsweise gestimmt, ist heute aber grundfalsch: unsere Wirtschaft ist so stark gewachsen, dass sie an die Grenzen des äußeren, des Ökosystems, stößt und droht, das Ökosystem zu zerstören.
+** Drei Aufgaben der Wirtschaft: Verteilung (distribution), Zuteilung (allocation), und Ausmaß (Scale)
+ - Zuteilung: Zuteilung von Resourcen an verschiedene Nutzungsformen oder Produkte
+ - Verteilung: Verteilung von Endprodukten und Dienstleistungen unter der Bevölkerung
+ - Die neoklassische Ökonomie betrachtet nur Verteilung und Zuteilung, und ist der Ansicht, dass das Ausmaß sich daraus von alleine ergibt
+ - Dale plädiert: Man muss das Ausmaß explizit betrachten, modellieren und kontrollieren
+** Wertschöpfung (Added value)
+
+   #+CAPTION: Mehrwerttheorie in der neoklassischen Theorie und nach Daly.
+   #+NAME:   fig:SED-HR4049
+   [[./sketches/steadystate_mehrwert.png]]
+
+    - Wertschöpfung im klassischen Sinne wird alleine durch Menschen betrieben. Das heißt, die Ressourcen, aus denen der Mensch Wert schöpft, werden als eine Art gleichverteilte, undefinierte Masse betrachtet. Resourcen alleine sind wertlos, erst der Mensch schöpft Wert. Der Abfall, der am Ende eines Produktzyklus anfällt, ist kein Problem, denn der Wert ist zwar verfallen, aber dieser Wert war ja eh erst durch den Mensch entstanden, es ist also Netto ein Nullsummenspiel entstanden.
+    - Dale meint: Diese Betrachtungsweise ist falsch. Im Gegenteil: der Wert eines Produktes ergibt sich aus dem natürlichen Wert der Resourcen (geschaffen vom Ökosystem) und dem von Menschenhand geschaffenen Wert. Der Abfall am Ende des Produktzyklus hat keinen Wert mehr, bzw. nur noch wenig Wert, und das ist ein Problem, denn sowohl der menschengeschaffene Wert als auch der natürlich Wert wurden zerstört oder zumindest vermindert. Im physikalischen Sinne haben wir einen Stoff mit niedriger Entropie in einen Stoff mit hoher Entropie verwandelt, und es ist nur sehr schwer oder sogar unmöglich, diese Entropie wieder zu verringern, d.h. das Produkt zu "recyclen".
+** Investition in "natürliches Kapital"
+
+   #+CAPTION: Arten von Kapital
+   #+NAME:   fig:SED-HR4049
+   [[./sketches/steadystate3.png]]
+
+   Natürliches Kapital (NK) ist das Ökosystem der Erde. Um menschengeschaffenes Kapital zu schaffen, wandeln wir natürliches Kapital mit unserer Arbeitskraft und unserem Intellekt in menschengemachtes Kapital (MMK) um.
+   Eine zentrale Aufgabe der Wirtschaftspolitik ist es daher, das natürliche Kapital zu erhalten, anders gesagt: in das natürliche Kapital zu investieren, um das Gesamtkapital zu erhalten. Dies kann auf zwei Arten geschehen:
+   1. Die Summe aus MMK und NK soll erhalten bleiben, in einem aggregierten Sinne.
+   2. Beide Komponenten sollen separat erhalten bleiben.
+   Dale argumentiert, dass die erste Option nur Sinn ergibt, wenn man glaubt, dass beide Kapitalformen einander ersetzen können. Dies ist jedoch seiner Meinung nach absurd und falsch. MMK und NK sind komplementär. MMK ist das Mittel, um natürliche Resourcen in Produkte umzuwandeln. NK sind der "material cause" (materielle Ursache) von Produkten, MMK ist die "efficient cause" (effiziente Ursache) von Produkten.
+   Daher müssen wir darauf aus sein, Option 2 zu wählen, also beide Kapitalformen für sich zu erhalten. Historisch betrachtet war MMK immer knapp, NK jedoch in Hülle und Fülle vorhanden (die Welt war "leer"). Dank des wirtschaftlichen Wachstums in den letzten 200 Jahren hat sich dies umgedreht: Nun ist NK knapp und MMK reichlich vorhanden (die Welt ist "voll"). Ein Beispiel: die Anzahl der gefangenen Fische ist nicht mehr durch Fischerboote begrenzt, sondern nur noch durch die noch vorhandenen Fische.
+*** Wie können wir das natürliche Kapital und das menschengemachte Kapital erhalten
+   Natürliches Kapital ist in zwei Formen vorhanden: regeneratives NK (z.B. Tiere und Bäume) und nicht-regeneratives NK (z.B. Öl). Nicht-regenerative Resourcen können nicht erneuert werden (wenn wir nicht unendlich lange warten wollen), regenerative Resourcen hingegen schon. Eine besondere Kategorie ist kultiviertes NK, zum Beispiel Fischteiche oder Landwirtschaft. Dieses kann in NK und MMK aufgeteilt werden und kann in gewissem Maße, jedoch nicht vollständig, regeneratives NK ersetzen (z.B. Forstwirtschaft für Holznachschub). Die Frage ist, inwieweit kutiviertes NK regeneratives NK ersetzen kann. Diese Frage ist weiterhin offen.
+   Wir können in regeneratives NK nur "investieren", indem wir passiv bleiben, also entscheiden, das NK nicht auszubeuten (z.B. den Amazonas-Regenwald nicht abholzen).    Wir können in nicht-regneratives NK nicht investieren, wir können nur entscheiden, es nicht zu nutzen, um negative Folgen auf die restliche Umwelt zu vermeiden. Jegliche Nutzung von nicht-regenerativem NK muss daher einher gehen mit Investitionen in Ersatzresourcen, die die Benutzung von nicht-regenerativem NK irgendwann überflüssig machen (z.B. Solarenergie anstelle von Kohlekraftwerken). 
+   Die allgemeine ökologisch-ökonomische Effizienz $R$ unseres Systems lässt sich ausdrücken in dem Verhältnis von erhaltenen MMK zu ausgebeutetem NK:
+   $R = \frac{\text{MMK gewonnen}}{\text{NK geopfert}}$
+   Diese Verhältnis lässt sich noch weiter aufspalten in 4 Terme:
+   $R = \frac{\text{MMK gewonnen}}{\text{NK geopfert}} = \frac{\text{MMK gewonnen}}{\text{MMK Bestand}} \times \frac{\text{MMK Bestand}}{\text{Durchsatz}} \times \frac{\text{Durchsatz}}{\text{NK Vorrat}} \times \frac{\text{NK Vorrat}}{\text{NK geopfert}}$
+   Die einzelnen Verhältnisse gestalten sich wie folgt:
+   1. Effizienz der Produktproduktion (Wieviel MMK benötige ich, um ein Produkt herzustellen?)
+   2. Effizienz der Aufrechterhaltung von MMK (Wie langlebig sind die Produkte, die ich herstelle?)
+   3. Effizienz des Wachstums (Wie schnell können wir NK verbrauchen?)
+   4. Effizienz des Ökosystems (Wie lange brauchen NK, um vom Ökosystem produziert zu werden?)
+   Momentan konzentrieren wir uns nur auf 1 und 3, und in Ansätzen um 4 (z.B. Genmanipulation, damit Pflanzen schneller wachsen). Dale argumentiert, dass wir 3 begrenzen müssen, da wir in 1 und 4 nicht genügend Fortschritte machen werden und in 4 nicht abschätzen können, was die Kollateraleffekte von gewissen Maßnahmen sind. Außerdem müssen wir 2 erhöhen, also Produkte langlebiger machen und länger benutzen, also unseren Konsum begrenzen.
