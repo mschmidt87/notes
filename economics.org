@@ -1,4 +1,14 @@
 * Mainstream vs. plurale Ökonomie
+In der Volkswirtschaftslehre (VWL) gibt es einen Konflikt zwischen "Mainstream"-Ökonomen und "pluralen Ökonomen". Mit Mainstream ist hier das vorherrschende Paradigme in der VWL gemeint, die neoklassische Theorie. Sie kennzeichnet sich durch bestimmte Grundsätze aus, wie zum Beispiel:
+- *Grenznutzentheorie*: Der Grenznutzen eines Gutes ist der Nutzen, den ein Wirtschaftsubjekt durch Konsum des Gutes erfährt. Dabei wird das Gesetz vom abnehmenden Grenznutzen angenommen: mit jedem weiteren Konsum eines Gutes nimmt der Nutzen, der aus dem Konsum gezogen wird, ab. Der Grenznutzen bestimmt in der neoklassischen Theorie den Preis eines Gute und damit seinen Wert. Dies steht im Gegensatz zu den klassischen Theorien, in denen der Wert eines Gutes über andere Dinge definiert wurde.
+- *Homo Oeconomicus*: Der Homo Oeconomicus ist ein Modell für individuelle Wirtschaftssubjekte, das annimmt, das jedes Subjekt als rationaler Agent seinen eigenen Nutzen (wie auch immer definiert) versucht, zu maximieren. Dabei ist die Definition des Nutzen flexibel und kann zum Beispiel auch altruistische Komponenten beinhalten.
+- 
+
+Die pluralen Ökonomen kritisieren die neoklassische Theorie an mehreren Punkten, wie zum Beispiel:
+- Menschen verhalten sich nicht wie der Homo Oeconomicus. Stattdessen gibt es viele Beispiele, in denen sich Menschen irrational verhalten.
+- Die neoklassische Theorie geht davon aus, dass wir in einer Welt leben (einem Ökosystem), dessen Größe die der Wirtschaft so sehr übersteigt, dass die Grenzen des Ökosystems keine Rolle für die Wirtschaft spielen (siehe Herman Daly, Dougnut Economics). Wir leben sozusagen in einer leeren Welt. Dies war vor 100 Jahren zutreffend, als die Weltbevölkerung und die Weltwirtschaft um eine Vielfaches kleiner war als heute. Heutzutage hat die Menschheit mehrere planetare Grenzen (siehe Doughnut Economics) bereits überschritten, d.h. wir leben heute in einer vollen Welt.
+- Die neoklassische Theorie behauptet, keine normative Theorie, sondern stattdessen eine streng objektive, empirische Theorie zu sein. Die pluralen Ökonomen bestreiten diese Einstellung und behaupten, dass auch die Neoklassik normative Annahmen macht.
+
 ** Bachmann im "In der Wirtschaft" podcast:
    - der Mainstream ist schon plural: es gibt viele verschiedene Methoden und auch konzeptionell bietet der Mainstream genügend Platz für Ideen
    - alternative Ideen müssen und können sich durchsetzen, siehe Umweltökonomie (Nordhaus und Co.), Gender Studies, die haben es auch geschafft
