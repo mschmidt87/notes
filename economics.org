@@ -1,0 +1,31 @@
+* Mainstream vs. plurale Ökonomie
+** Bachmann im "In der Wirtschaft" podcast:
+   - der Mainstream ist schon plural: es gibt viele verschiedene Methoden und auch konzeptionell bietet der Mainstream genügend Platz für Ideen
+   - alternative Ideen müssen und können sich durchsetzen, siehe Umweltökonomie (Nordhaus und Co.), Gender Studies, die haben es auch geschafft
+   - Forschung in den Wirtschaftswissenschaften muss konstruktive etwas zum Verständnis beitragen, dann gibt es auch einen Platz für sie
+   - "Ich will in erster Linie die Welt verstehen, nicht die Welt verändern" --> Gegensatz zu Raworth: Wirtschaftswissenschaften als beschreibende (empirische) Wissenschaft vs. Ökonomen als Ingenieure des Wirtschaftssystems, die normativ arbeiten
+   - die VWL stellt Theorien auf, die unter bestimmten Annahmen gültig sind. Solange die Annahmen klar erklärt sind und die Mathematik stimmt, ist das so in Ordnung und es besteht kein Problem.
+** Eigene Notizen
+   - vielleicht ist der Grundkonflikt einfach eine andere Auffassung davon, was Ökonomen leisten sollen: Wirtschaftswissenschaften als beschreibende (empirische) Wissenschaft vs. Ökonomen als Ingenieure des Wirtschaftssystems, die normativ arbeiten
+   - der Standpunkt, dass es in Ordnung ist, wenn die VWL mit stark vereinfachenden Modellen arbeitet, solange die Vereinfachungen klar formuliert sind, macht es sich ein bisschen zu einfach. Denn Ökonomen sind meist nicht nur Wissenschaftler, sondern drängen in die Öffentlichkeit, indem sie eigene Medienbeiträge produzieren (Zeitungskolumnen, Interviews, Podcasts etc.), mit denen sie Einfluss nehmen wollen, oder indem sie als Politikberater auftreten. In beiden Fällen werden die vereinfachenden Theorien in die Sphäre der POlit
+   - Es gibt Unterschied zu anderen Wissenschaften wie der Physik 
+   - meine Hauptfrage: was ist die Antwort der Ökonomen auf die Umweltprobleme: erschöpft sich alles im CO2-Preis?
+* Umweltökonomie (Environmental economics)
+  Die Umweltökonomie beschäftigt sich mit den Wechselwirkungen zwischen der Wirtschaft und der Umwelt mit ihren (knappen) Resourcen.
+  Das *Ausgangsproblem* ist, dass Umweltressourcen durch Überbeanspruchung knapper werden, dabei jedoch weiterhin als öffentliches Gut im Besitz aller und damit zur freien Verfügung stehend aufgefasst werden. Dadurch entsteht ein Unterschied zwischen privaten (Kosten des Verbrauchers) und gesellschaftlichen (Kosten der Gesellschaft) Kosten. Beispiel ist die Aufnahmekapazität von Treibhausgasen in der Atmosphäre.
+  Das *Ziel der neoklassischen Umweltökonomie* ist es, eine optimale Umweltbelastung zu erreichen, d.h. eine Belastung, bei der der Grenznutzen der Umweltbelastungen gerade noch die Grenzschäden rechtfertigt.
+  *Aufgaben*: Entwicklung von Instrumenten zur Marktintegration natürlicher Resourcen in die Entscheidungsverfahren für öffentliche und private Umwelteingriffe
+  *Lösungsansätze*: der neoklassische Lösungsansatz besteht darin, die Externalitäten (Umweltschäden) zu internalisieren, das heißt in die wirtschaftliche Rechnung einzupreisen. Die Idee ist: erst wenn die Marktpreise die wahren Kosten beinhalten, wird die Knappheit und Kostbarkeit der natürlichen Resourcen bewusst und kann berücksichtigt werden.
+** Coase-Theorem
+   Das Coase-Theorem besagt, dass wenn zwei Verhandlungspartner, der Schädiger und Geschädigte, miteinander verhandeln und folgende Annahmen erfüllt sind:
+   - keine Transaktionkosten für die Verhandlungen
+   - Vollständige Informationen
+   - Verfügungsrechte
+   Dann kann ein Verhandlungsergebnise erzielt werden, indem die Schäden und Nutzen optimal ausbalanciert werden. Dieses Gleichgewicht ist erreicht, wenn die Grenzschadenskosten gleich den Grenzvermeidungskosten sind.
+   der Umweltökonomie entgegen steht die ökologische Ökonomie, die den Ansatz der Umweltökonomie, die Umwelt in den Markt zu integrieren, ablehnt.
+** Nordhaus: Climate Clubs, DICE model
+*** DICE model
+    Ein IAM (Integrated assessement model), das sich mit dem Wechselspiel von Klimwandel und ökonomischem Wachstum beschäftigt. Ziel ist es, eine optimale Politik vorherzusagen, d.h. eine Politik, die das wirtschaftliche Wachstum optimiert. So sagt es zum Beispiel ein optimales Temperaturziel oder einen optimalen CO2-Preis voraus.
+    Das Modell sagt zum Beispiel auch einen "Social Cost of Carbon" voraus, d.h. die Kosten, die durch die Emission von einer Tonne CO2 in die Atmosphäre entstehen. Diese bilden die Grundlage für eine CO2-Steuer.
+*** Climate Clubs
+    Die Idee: Anstelle von weltumfassenden Klimaabkommen, die zum großen Teil auf Freiwilligkeit beruhen, sollen Climate Clubs treten. Dies sind Klubs, die von mehreren Staaten gebildet werden. Diese Staaten einigen sich auf einen gemeinsamen CO2-Preis (kein Temperaturziel) und bestragen Nicht-Mitglieder, indem sie Zölle erheben.
