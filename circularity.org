@@ -182,6 +182,6 @@ Die Grundidee ist, eine Lenkungswirkung in Richtung der Kreislaufwirtschaft zu e
 "Eine Reihe von EU-Ländern nutzt bereits die von der EU eingeräumte Entlastung von Reparatur- und Handwerksdienstleistungen durch ermäßigte Mehrwertbeteuerung. Weitere Optionen werden voraussichtlich im Zuge der geplanten EU-Mehrwertsteuerreform möglich werden."
 
 * Ressourcen
-- [1] https://www.factory-magazin.de/de/themen/steuern/die-oekologische-wahrheit-ressourcensteuern-fuer-mehr-effizienz.html
-- [2] McDonough, William. "michael Braungart." Cradle to Cradle: Remaking the Way We Make Things (2009).
-- [3] Universal circular economy policy goals: enabling the transition to scale, https://policy.ellenmacarthurfoundation.org/universal-policy-goals
+1. https://www.factory-magazin.de/de/themen/steuern/die-oekologische-wahrheit-ressourcensteuern-fuer-mehr-effizienz.html
+2. McDonough, William. "michael Braungart." Cradle to Cradle: Remaking the Way We Make Things (2009).
+3. Universal circular economy policy goals: enabling the transition to scale, https://policy.ellenmacarthurfoundation.org/universal-policy-goals
