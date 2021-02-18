@@ -1,0 +1,185 @@
+* Kreislaufwirtschaft / Circularity
+Die Grundidee der Kreislaufwirtschaft ist es, das bestehende lineare Wirtschaftsprinzip (Rohstoffe extrahieren -> produzieren -> benutzen -> entsorgen) zu verlassen und durch ein zirkuläres Prinzip zu ersetzen.
+Dies bedeutet, dass Produkte und Materialien wieder verwendet, aufbereitet und recycelt werden sollen. In erster Linie bedeutet dies, dass Produkte und Dienstleistungen grundlegend anders designt werden müssen. Anstatt auf Konsum und Entsorgung zu setzen, müssen Produkte so gestaltet werden, dass sie
+- möglichst lange verwendet ("reuse")
+- nach Verwendung wieder aufbereitet ("refurbished")
+- ihre Rohstoffe einfach wieder zurückgewonnen und recycelt
+werden können. Dafür sind Prinzipien wie Modularität äußerst wichtig.
+
+[[./sketches/circular_economy.png]]
+(By Geissdoerfer, M., Pieroni, M.P., Pigosso, D.C. and Soufani, K. - Geissdoerfer, M., Pieroni, M.P., Pigosso, D.C. and Soufani, K., 2020. Circular business models: A review. Journal of Cleaner Production, p.123741.https://www.researchgate.net/profile/Martin_Geissdoerfer2/publication/343810965_Circular_business_models_A_review/links/5f628dd092851c07896d7dd3/Circular-business-models-A-review.pdf, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=97396208)
+[[./sketches/circularity_policy.png]]
+
+** Motivation
+- 45% der weltweiten Treibhausgase sind eine Folge unserer Art, Produkte zu produzieren und zu konsumieren.
+- Resourcenausbeutung und -verarbeitung sind verantwortlich für 90 % des Verlustes an Biodiversität
+
+** 3 Grundprinzipien
+- Abfall und Umweltverschmutzung eliminieren
+- Produkte und Materialien im Nutzungskreislauf halten ("reuse")
+- natürliche Systeme regenerieren
+
+** Relevanz für die Sustainable Development goals:
+- SDG12 ("ensure sustainable consumption and production patterns")
+- 11 other SDGs, incl. SGD9 ("build resilient, inclusive and sustainable industrialisation, together with infrastructure and innovation")
+
+** 4 Bausteine
+*** Design von Produkten und Dienstleistungen 
+Welche Materialien werden benutzt und wie zusammengesetzt oder angebaut? Welche Design Choices werden gemacht: wie kann ein Produkt auseinandergebaut und repariert werden? Wie modular ist ein Produkt aufgebaut?
+*** Geschäftsmodelle
+Wie wird ein Produkt dem Markt verfügbar gemacht und wie wird es genutzt? Beispiee: Product-as-a-service, access-over-ownership, Reparaturdienstleistungen etc.
+*** Design von Regenerationszyklen
+ermöglicht es, Materialien und Produkte im Nutzungskreislauf zu halten und wiederzuverwerten.
+*** Rahmenbedingungen
+politische Maßnahmen, digitale Technologien, Teilung von Informationen
+
+** Politik
+Fünf grundlegende Ziele:
+- Ziele 1 und 2 zielen darauf ab, zirkuläre Produkte und Geschäftsmodelle zu entwickeln (1) und diese in die Tat umzusetzen, indem die Materialkreisläufe geschlossen werden (2).
+- Ziele 3 und 4 zielen darauf ab, die Lösungen in (1) und (2) zu skalieren, indem die makroökonomischen Rahmenbedingungen auf die Kreislaufwirtschaft ausgerichtet werden und öffentliche und private Investitionen genutzt werden, um die Transformation zu ermöglichen.
+- Ziel 5 errichtet die politischen Rahmenbedingungen, lokal, national und international, um den Wandel voranzutreiben.
+*** (1) Zirkuläres Design stimulieren
+# Design von Produkten und Dienstleistungen
+# Geschäftsmodelle
+- Zirkuläre Produkt-Designs und Geschäftsmodelle stimulieren:
+  - Nutzungszyklen verlängern (Haltbarkeit, erhöhte Wiederverwendbarkeit und Reparierbarkeit, Potential zur Wiederaufbereitung und Recycling)
+  Beispiele:
+  - Recht auf Reparatur: Anreize für: Verfügbarkeit von Ersatzteilen, Reparieranleitungen, etc.
+  - Strafen für geplante oder vorzeitige Veralterung/Weltverlust
+  - Produktlabels, digitale Produktpässe, um Nutzer und andere Firmen über Materialien, Haltbarkeit, Aufwertbarkeit (Upgradeability), Wiederverwendbarkeit etc. zu informieren
+  - Standards für Marketing und Werbungs
+- Konstruktions- und Planbarkeitspolitik für die Bauwirtschaft
+  - Material-Pässe für Gebäude
+  - Real-Time Digital Twins für Predictive Maintenance
+  - Steuerliche Anreize und öffentiche Ausschreibungen für zirkuläre Designs und Geschäftsmodelle
+  - Anreize für Renovieren und Sanieren statt Neubau
+- Landwirtschaft und Lebensmittelwirtschaft
+  - Förderung von alternativen Formen der Landwirtschaft: Agroforstwirtschaft, Permaculture, Managed Grazing
+  - Pestizide und Dünger
+  - Labels für Lebensmittel
+  - Entwicklung und Aufbau von Datensätzen über Landwirtschaft und Lebensmittelwirtschaft, um Resourcennutzung zu minimieren
+- Gesetzgebung für Chemikalien
+  - Verbote von gefährlichen Substanzen und Anwendung des Vorsichtsprinzips (etwas erst zulassen, wenn seine Harmlosigkeit bewiesen ist)
+  - Nutzung von Materialien, die inkompatibel mit Kreislaufwirtschaft sind, einschränken oder verbieten
+  - Internationale Harmonisierung und Informationsfluss entlang globaler Liefer- und Produktionsketten
+- Internationale Standards in Zusammenarbeit mit der Industrie
+  - Organisationsmanagement für die Kreislaufwirtschaft
+  - Material- und Nährstoffinputs
+  - Rohmaterialien
+  - Aufbereitete und recyclete Waren
+  - Design von Produkten und Services
+
+*** (2) Resourcenmanagment, um Wert zu erhalten
+# Design von Regenerationsyzklen
+- High-value resource loops durch steuerliche Maßnahmen und öffentliche Beschaffung attraktiv machen
+  - steuerliche Nachlässe für Produkte und Unternehmen, die im Sinne der Kreislaufwirtschaft wirtschaften
+  - steuerliche Zuschläge für lineare Produkte und Geschäftmodelle
+  - öffentliche Beschaffung und Ausschreibungen auf Kreislaufwirtschaft ausrichten
+  - öffentliche Ausschreibungen nutzen, um Demonstrationsprojekte anzuschieben
+- Fee-based Extended Producer Responsibility (EPR) schemes und Pfandsysteme
+  - Unternehmen finanziell dafür verantwortlich machen, ihre Produkte wieder einzusammeln und zu sortieren (Bsp: Batterien) --> Ziel: Finanzierung der Sammlung durch Unternehmen, Reduzierung des wilden Mülls und Anreize für Unternehmen schaffen, ihre Geschäftsmodelle umzustellen und Ressourcen einzusparen.
+  - Pfandysteme: (Deposit Return Schemes, DRS)
+- Klassifizierung von Resourcen im Abfallrecht harmonisieren
+  - Widersprüchliche Regeln im Abfallrecht können es erschweren, den Abfall effizient zu managen und wiederzuverwerten.
+- Verbesserung von Systemen zur Trennung und Sammlung von Abfällen
+- Räumliche Planung, um Materialkreisläufe zu organisieren
+  Gute Raumplanung für Anlagen, die Materialkreisläufe organisieren und durchführen, sind ein wichtiger Faktor, um diese Kreisläufe in Gang zu bringen und effizient zu gestalten. (Bsp.: Wertstoffhöfe, Kompostierzentren)
+- Management von globalen Materialflüssen
+  Einschränkungen für Import/Export von Materialien können die Kreislaufwirtschaft fördern und lokale Anreize bieten (Bsp.: Verbot der Einfuhr von Plastikmüll in China)
+- Mülldeponien und Verklappung von Abfällen beenden
+  - Hohe Gebühren für Mülldeponien
+  - Verbot für bestimmte Materialien
+
+*** (3) Wirtschaftliche Rahmenbedingungen verändern
+# Rahmenbedingungen
+- Steuersystem
+  - steuerliche Anreize für Investitionen in die Kreislaufwirtschaft, reduziertes Müllaufkommen und Verwendung von recycleten Materialien
+  - Steuernachlässe für Gebäude, die im Sinne der Kreislaufwirtschaft errichtet wurden
+- Steuern auf Resourcen anstelle von Arbeit
+  Steuern auf nicht-erneuerbare Materialien und auf Umweltverschmutzung, THG-Emissionen, Rohmaterialien
+  wird eine Übergangszeit benötigen, um negative Auswirkungen auf verwundbare gesellschaftliche Gruppen abzudämpfen
+- Subventionen reformieren:
+  Subventionen für fossile Energieträger abschaffen
+  Subventionen an kreislaufwirtschaftlichen Kriterien ausrichten: Bauern, die auf nachhaltige Landwirtschaft umstellen, Vewendung von sekundären Rohstoffen, Subventionen für Bauern, die das Ökosystem fördern (eco schemes)
+- Kredite und Darlehen von staatlichen Investitionsbanken
+- Bedingungen für Staatshilfen
+- Wettbewerbsrecht auf Kreislaufwirtschaft ausrichten
+  Umweltbezogene Aspekt mit einbeziehen
+- Geistiges Eigentum
+  z.B. erweitern auf Technologien, die sich explizit auf Reparatur und Wiederaufbereitung beziehen
+- Arbeitsmarktpolitik
+  Im Übergang zur Kreislaufwirtschaft werden viele neue Jobs enstehen, aber auch viele Jobs wegfallen, z.B. in der fossilen Industrie. Um einen gerechten Übergang zu gewährleisten, sollten Weiterbildungs- und Qualifizierungsmaßnahmen für betroffene Arbeiter angeboten werden.
+- Handelspolitik
+  - Wegfall von Zöllen auf zirkuläre Produkte
+  - Erleichterung des Handels mit Recycling-Materialien
+- öffentliche Beschaffung und Ausschreibungen, um neue Märkte zu schaffen
+  Schaffung von Standards in öffentlichen Beschaffungen
+  - Beispiel: Büromaterialien für öffentliche Ämter und Unternehmen müssen zirkulären Kriterien genügen
+  - Lokale Beschaffung von Gütern (z.B. Lebensmittel in öffentlichen Kantinen und Schulen, um Lieferketten zu verkürzen)
+- Definition einer Taxonomie 
+  Klärung von Begrifflichkeiten und Verhinderung von Missbrauch (Bsp. Green Washing)
+- Pflicht zur Transparenz von Unternehmen
+  Mehr Transparenz für Investoren und Kunden
+- Bilanzierungsregeln
+  - Abschreibungsregeln für Güter
+  - Reparatur- und Aufbereitungskosten für Güter in Bilanzen (Product-as-a-service)
+  - Steuerliche Regelungen an Kreislaufwirtschaft anpassen
+  - Ansätze, natürliches Kapital in Bilanzen mit einzubeziehen, um Externalitäten zu internalisieren
+- Daten- und Digitalpolitik
+  Digitale Technologien können den Übergang zur Kreislaufwirtschaft erleichtern und beschleunigen. Ihre Regulierung steckt noch in den Kinderschuhen und kann daher im Sinne der Kreislaufwirtschaft gestaltet werden. Dabei können Hindernisse in Zusammenarbeit mit der Privatwirtschaft identifiziert und beseitigt werden.
+
+*** (4) In Innovation, Infrastruktur und Fähigkeiten investieren
+# Rahmenbedingungen
+- Die Lehrpläne verändern und die Kreislaufwirtschaft in die allgemeine Bildung aufnehmen
+- Weiter- und Ausbildung
+- Forschungsförderung für systemverändernde Lösungen
+  organische und nicht-organische Materialien
+  Produktionsprozesse
+  Regenerative Nahrungsproduktion
+  Organisations- und Businessinnovation
+  Lokalisierte Infrastrukturlösungen
+  - "Challenge-driven", missionsorientierte Förderfonds
+- Risikoförderung (Bsp.: Schottischer Circular Economy Investment Fund, Finnland: Sitra)
+- Mischförderung für Infrastruktur
+  z.B. Garantien und Bürgschaften für private Investoren, "Match funding" für physikalische Infrastruktur
+- Internationale Hilfen
+
+*** (5) Für den Systemwandel zusammenarbeiten
+# Rahmenbedingungen
+- Zusammenarbeit für die Kreislaufwirtschaft in verschiedenen Politikfelder
+  Sektorale Strategien (Agrarwirtschaft, Digitalwirtschaft, Infrastruktur) mit sektorübergreifenden Strategien (öffentliche Beschaffung und Ausschreibungen) verzahnen
+- Ein missionsgetriebener, ergebnisorientierter Ansatz
+  Verschiedene Strategien können zusammen ausgerichtet werden, indem sie ein gemeinsames Ziel verfolgen
+- Internationale Zusammenarbeit stärken
+  Internationale Foren und Gremien schaffen ("Global Alliance for a Circular Economy and Resource Efficiency")
+- Roadmaps zur Kreislaufwirtschaft entwickeln
+  Verschiedenste Interessengruppen an einen Tisch bringen und internationales Einverständnis schaffen und nutzen
+- Feedback loops mit den Interessensgruppen schaffen
+  Responsive Feedback Mechanisms
+  Regulatorische "Sandboxes"
+- Allianzen bilden
+  Allianzen mit vielen Interessengruppen können gute Instrumente sein, um Innovationsbarrieren zu beseitigen und Politik kohärenter zu machen (Bsp: European Battery Alliance)
+- Bewusstsein mit Informationskampagnen schaffen
+- Indikatoren und Ziele schaffen, um den Fortschritt zu messen
+- Daten sammeln
+  Mehr und bessere Daten sammeln, um besser zu verstehen, wie es um Wiederverwendung, Aufbereitung und Recycling von Materialien bestellt ist
+
+
+
+* Konkrete Maßnahmen und Empfehlungen
+** Steuerpolitik
+*** Pigou-Steuern
+Die Grundidee ist, eine Lenkungswirkung in Richtung der Kreislaufwirtschaft zu erreichen, indem Ressourcen besteuert werden und so Externalitäten internalisiert werden (Pigou-Steuern). Dies kann an verschiedenen Orten der Wertschöpfungskette passieren:
+- *Inputsteuern*: greifen in der Phase der Ressourcenextraktion, d.h. Steuern werden auf Rohmaterialien erhoben
+  - Beispiele: Stahl, Aluminium, Kunststoff mit dem Ziel, die Recyclingquoten zu erhöhen
+- *Steuern im Produktionsprozess*: sind Steuern auf Nebenprodukte, die im Produktionsprozess entstehen, z.B. CO2-Steuer.
+- *Outputsteuern*: sind Steuern auf Endprodukte und zielen damit auf der Verhalten der Verbraucher. Ein klassisches Beispiel ist die Mehrwertsteuer, die im Sinne der Kreislaufwirtschaft bzw. eines nachhaltigen Wirtschaften, differenziert werden kann.
+
+
+*** Ausdifferenzierung der Mehrwertsteuer
+"Eine Reihe von EU-Ländern nutzt bereits die von der EU eingeräumte Entlastung von Reparatur- und Handwerksdienstleistungen durch ermäßigte Mehrwertbeteuerung. Weitere Optionen werden voraussichtlich im Zuge der geplanten EU-Mehrwertsteuerreform möglich werden."
+
+* Ressourcen
+- [1] https://www.factory-magazin.de/de/themen/steuern/die-oekologische-wahrheit-ressourcensteuern-fuer-mehr-effizienz.html
+- [2] McDonough, William. "michael Braungart." Cradle to Cradle: Remaking the Way We Make Things (2009).
+- [3] Universal circular economy policy goals: enabling the transition to scale, https://policy.ellenmacarthurfoundation.org/universal-policy-goals
