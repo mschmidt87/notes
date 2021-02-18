@@ -1,0 +1,13 @@
+* Wachstum
+
+** Was heißt Wachstum in der Wirtschaft?
+
+Wachstum bedeutet zunächst schlicht, dass eine bestimmte Messgröße anwächst. Diese Messgröße ändert sich je nach betrachtetem Gegenstand: auf der gesamtwirtschaftlichen (Makro-)Ebene geht es um das Bruttoinlandsprodukt (BIP), auf der Unternehmensebene zum Beispiel um den Umsatz und bei einzelnen Haushalten/Individuen z.B. um das Einkommen oder den Konsum.
+Es gibt den Begriff des Wachstumszwangs, der sich auf verschiedenen Ebenen manifestiert. Dabei gibt es einerseits die **normative Vorstellung**, dass Wachstum gut ist, da es dem Einzelnen mehr Konsum ermöglicht und damit "ein besseres Leben". Desweiteren wird versucht, **soziale Probleme** wie Ungerechtigkeiten und Ungleichheit durch Wachstum zu lösen. Salopp gesprochen ist die Devise, dass, wenn der Kuchen für alle größer wird, jeder einzelne ein größeres Stück bekommt und damit seine Bedürfnisse besser befriedigen kann.
+
+Das Problem ist, dass die Wirtschaft eingebettet in das Ökosystem der Erde ist, welches selbst nicht wächst. Historisch gesehen ging Wirtschaftswachstum jedoch mit einer Erhöhung des Rohstoffverbrauchs und der Emissionen der Treibhausgase und damit verbunden einer Schädigung dieses Ökosystems einher. Seit mehreren Jahrzehnten ist nun schon bekannt, dass dies zu Problemen führt und sich daher etwas ändern muss. Die Frage ist jedoch: "was muss sich ändern?". Dafür gibt es verschiedene Ansätze:
+
+- [[./green_growth.org][Grünes Wachstum]]: Die Idee, dass das Wirtschaftswachstum sich vom Rohstoffverbrauch und den Emissionen von Treibhausgasen entkoppeln lässt
+- Degrowth/Postwachstum: Die Idee, dass wir das Wachstum begrenzen oder die Wirtschaft sogar schrumpfen muss. Die zugrunde liegende Idee ist, dass der Planet Erde planetare Grenzen vorgibt, die wir nicht überschreiten dürfen. Die [[./daly_beyond_growth.org][Steady State Economy]] von Herman Daly ist ein Konzept. Der [[./gnd_pettifor.org][Green New Deal von Ann Pettifor]] bezieht sich ebenso auf die Steady State Economy.
+- A-Growth oder die Doughnut Economy: Das Konzept von Kate Raworth stellt sich die Wirtschaft als Doughnut vor: Im Inneren liegen soziale Missstände, die wir überwinden müssen, im Äußeren liegen die planetaren Grenzen, die nicht überschritten werden dürfen. Das Ziel muss also sein, auf dem Doughnut zu liegen.
+- [[./circularity.org][Kreislaufwirtschaft oder Circular Economy]]: Die Kreislaufwirtschaft ist eher komplementär zu den anderen aufgeführten Punkten und hat eine Wirtschaft als Vision, in der Rohstoffe und Produkte in einem Kreislauf gehalten werden anstatt wie im existierenden linearen Systemen entsorgt werden.
