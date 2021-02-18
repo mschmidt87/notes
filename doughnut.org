@@ -1,0 +1,25 @@
+* Die Doughnut Economy
+
+Die Doughnut Economy [1, 2] ist ein Konzept der britischen Ökonomin Kate Raworth. Im Kern der Doughnut Economics steht der Doughnut: eine bildliche, konzeptionelle Darstellung des Verhältnisses unserer Wirtschaft zum Planeten Erde und unseren sozialen Bedürfnissen:
+
+[[./sketches/doughnut.jpg]]
+By DoughnutEconomics - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75695171
+
+Im Inneren des Doughnuts stehen die 12 elementaren Bedürfnisse der Menschen, die wir erfüllen müssen, um ein gutes Leben zu führen.
+Außerhalb des Doughnuts stehen die 9 planetaren Grenzen, die wir nicht überschreiten dürfen, um die stabile Existenz unseres Ökosystems nicht zu gefährden. Das Ziel unserer Wirtschaft sollte es sein, sich auf dem Doughnut zu befinden, also sowohl die Bedürfnisse zu erfüllen als auch die planetaren Grenzen einzuhalten.
+
+Momentan ist es jedoch so, dass die Industrienationen der Welt sich außerhalb des Doughnuts befinden, als zwar die Bedürfenisse erfüllen, dies jedoch damit erkaufen, die planetaren Grenzen zu überschreiten. Auf der anderen Seite stehen Entwicklungsländer, die zwar die planetaren Grenzen nicht verletzen, jedoch gewisse Bedürfnisse nicht erfüllen.
+
+Die Neuerung in der Doughnut Economy besteht nun darin, dass das Leitmotiv des Wirtschaftswachstums ("Wir brauchen Wachstum, um ein besseres Leben zu erreichen.") durch eine agnostische Haltung zum Wachstum ersetzt wird und stattdessen das Ziel lautet, uns auf dem Doughnut (nicht innerhalb, nicht außerhalb) zu befinden. Mit anderen Worten: wir ersetzen unsere skalare Zielfunktionen (BIP) durch einen ganzen Katalog von Zielen, die wir alle erreichen wollen.
+
+Um dies zu erreichen, gibt Raworth keinen klaren Plan vor. Es gibt jedoch einige Elemente, die sie als essentiell erachtet:
+- Kreislaufwirtschaft
+- eine starke "Commons"-Kultur (deutsch: Allmende)
+- die Bekämpfung sozialer Ungleichheit
+- eine Reform der Finanzwirtschaft, damit diese unseren Zielen dient
+- ein Kulturwandel weg vom Konsumismus
+
+
+
+[1] https://doughnuteconomics.org/
+[2] Raworth, Kate. Doughnut economics: seven ways to think like a 21st-century economist. Chelsea Green Publishing, 2017.
