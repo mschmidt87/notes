@@ -6,6 +6,8 @@ Dies bedeutet, dass Produkte und Materialien wieder verwendet, aufbereitet und r
 - ihre Rohstoffe einfach wieder zurückgewonnen und recycelt
 werden können. Dafür sind Prinzipien wie Modularität äußerst wichtig.
 
+Das Problem der fehlenden Nachhaltigkeit der Wirtschaft und die daraus resultierenden Umweltprobleme werden hier weniger als soziales oder moralisches Problem begriffen, sondern als ein Designfehler des Systems Wirtschaft durch falsche Anreize. Wenn man diesen Designfehler behabt und die Anreize anders setzt, kann man auch die Umweltprobleme lösen. Ob allerdings die Kreislaufwirtschaft wirklich in dem Maße funktionieren kann, dass sie die Umweltprobleme wirklich löst, ist eine offene Frage.
+
 [[./sketches/circular_economy.png]]
 (By Geissdoerfer, M., Pieroni, M.P., Pigosso, D.C. and Soufani, K. - Geissdoerfer, M., Pieroni, M.P., Pigosso, D.C. and Soufani, K., 2020. Circular business models: A review. Journal of Cleaner Production, p.123741.https://www.researchgate.net/profile/Martin_Geissdoerfer2/publication/343810965_Circular_business_models_A_review/links/5f628dd092851c07896d7dd3/Circular-business-models-A-review.pdf, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=97396208)
 [[./sketches/circularity_policy.png]]
